@@ -1,8 +1,8 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Jun's Blog
+SEOTitle: 俊俊的博客 | Jun's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: chenjun@ccnana.com
 description: ""
 keyword: ""
 url: "https://blog.ccnana.com"              # your host, for absolute URL
@@ -14,7 +14,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 weibo_username:     huxpro
 zhihu_username:     huxpro
-github_username:    huxpro
+github_username:    ccnana
 #twitter_username:  huxpro
 facebook_username:  huxpro
 
