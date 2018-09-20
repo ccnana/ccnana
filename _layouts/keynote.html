@@ -120,6 +120,13 @@ layout: default
                 <!-- disqus 评论框 end -->
                 {% endif %}
 
+                {% if site.shouhu_cy %}
+                <!-- 畅言 评论框 start -->
+                <!--PC和WAP自适应版-->
+                <div id="SOHUCS" sid="{{page.id}}"></div>
+                <!-- 畅言 评论框 end -->
+                {% endif %}
+
             </div>
 
             <!-- Sidebar Container -->
@@ -221,8 +228,6 @@ layout: default
 {% endif %}
 
 {% if site.shouhu_cy %}
-<!--PC和WAP自适应版-->
-<div id="SOHUCS" sid="{{page.id}}"></div>
 <script type="text/javascript">
     (function () {
         var appid = 'cytPiaCRz';
