@@ -48,6 +48,8 @@ kramdown:
 
 # Disqus settings
 disqus_username: disqus_qOHTLQdHyP
+layout: default
+comments: true
 
 # Duoshuo settings
 # duoshuo_username: huxblog
