@@ -20,7 +20,7 @@ tags:
 
 ### [Watch Slides →](http://huangxuan.me/js-module-7day)
 
-<img src="http://huangxuan.me/js-module-7day/attach/qrcode.png" width="350" height="350"/>
+<img src="https://huangxuan.me/js-module-7day/attach/qrcode.png" width="350" height="350"/>
 
 <small class="img-hint">你也可以通过扫描二维码在手机上观看</small>
 
@@ -39,5 +39,3 @@ tags:
 - 第七日 王者归来 ***ES6 Module*** 最后的战役
 
 ### Thanks
-
-[Reveal.js](http://lab.hakim.se/reveal-js)
